@@ -122,12 +122,6 @@ Ranks companies based on performance indicators and operational effectiveness.
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](dashboard_page-0001(4).jpg)
-
----
-
 ## Skills Demonstrated
 
 - Sales Analytics
